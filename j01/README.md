@@ -4,7 +4,6 @@
 
 #### With the guidance of PCPARTPICKER intuitive interface, which demonstrates an application of **`"Error Prevention"`**, a [usability guideline for using concepts in the real world](https://www.nngroup.com/articles/ten-usability-heuristics/) helps prevent any compatibility issues by providing real time compatibility checks, ensuring that each chosen part works well together. 
 
-<img src="https://github.com/ChicoState/ux-personal-portfolio-atorrespena/assets/142855422/d7ad5387-45d9-4d84-9556-e3d9a41cfb82" alt="PCPART (1)" width="850">
 <img src="https://github.com/ChicoState/ux-personal-portfolio-atorrespena/assets/142855422/0b043876-b650-4fa8-9d61-925dd27c4f5e" alt="PCPART" width="850">
 
 https://github.com/ChicoState/ux-personal-portfolio-atorrespena/assets/142855422/e1ff25b2-4290-433f-a92f-8151cd42da39
