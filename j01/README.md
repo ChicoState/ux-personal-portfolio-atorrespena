@@ -4,9 +4,7 @@
 
 #### With the guidance of PCPARTPICKER intuitive interface, which demonstrates an application of **`"Error Prevention"`**, a [usability guideline for using concepts in the real world](https://www.nngroup.com/articles/ten-usability-heuristics/) helps prevent any compatibility issues by providing real time compatibility checks, ensuring that each chosen part works well together. 
 
-<img src="https://github.com/ChicoState/ux-personal-portfolio-atorrespena/assets/142855422/0b043876-b650-4fa8-9d61-925dd27c4f5e" alt="PCPART" width="850">
-
-https://github.com/ChicoState/ux-personal-portfolio-atorrespena/assets/142855422/e1ff25b2-4290-433f-a92f-8151cd42da39
+<img src="https://github.com/ChicoState/ux-personal-portfolio-atorrespena/assets/142855422/0b043876-b650-4fa8-9d61-925dd27c4f5e" alt="PCPART" width="1000">
 
 #### While PCPartPicker excels in providing an effective and satisfying user experience, it lacks on educational resources or tutorials to enhance its learnability for first time users. Additionally, as demonstrated in the video above, there's a disclaimer indicating that the tool doesn't verify physical constraints. This poses a significant drawback, particularly for novice users, as neglecting to verify the correct measurements for their PC components could lead to potential issues.
 
