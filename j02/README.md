@@ -10,4 +10,8 @@ This makes it hard to navigate through the game since you have to go through mai
 Since there's many things to go through it makes it less efficient to navigate the game, especially when you need to save the game. This is found on the very last tab which is very inefficient and could have been done better by being tied to a button on the controller for easier access or even a different page on the game screen.
 ![example](p3.jpg)
 
-Even though it's a cluttered mess, some aspects are easy to use. I like how
+Even though it's a cluttered mess, some aspects are useful and convenient to use, such as the one shown below. As you can see, you can save each formation that you want to use and switch it out during gameplay. This is handy because you don't have to go back to your team managment tab to change your tactics one by one every time which saves time.
+
+![example](p4.jpg)
+
+Overall, FC24 has its strengths and weaknesses. Despite certain areas needing improvement for a better user experience, these weaknesses don't hinder my enjoyment of the game. Its immersive gameplay keeps me engaged, although refining the user interface could enhance the experience further.
