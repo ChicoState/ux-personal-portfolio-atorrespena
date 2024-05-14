@@ -9,3 +9,4 @@ Coming soon.
 ## UX Journal
 
 [Custom PC Building with PCPARTPICKER](j01/)
+[......](j02/)
