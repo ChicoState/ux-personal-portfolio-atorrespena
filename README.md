@@ -8,5 +8,6 @@ Coming soon.
 
 ## UX Journal
 
-[Custom PC Building with PCPARTPICKER](j01/)
-[......](j02/)
+[Custom PC Building with PCPARTPICKER](j01/) 
+
+[The Cluttered Madness?](j02/)
